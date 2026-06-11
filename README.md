@@ -1,4 +1,4 @@
-# 🚙 Carsharing Service
+# 🚙 Vehicle Flow API
 
 This is a modern RESTful API for a carsharing service, built with **Spring Boot 3**.
 
